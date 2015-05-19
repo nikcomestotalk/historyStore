@@ -11,8 +11,10 @@ Example:
  -->> Url of page becomes http://www.example.com/page1
  
  
---> User click back or run history.go(-1)
+--> User click back or run 
 
+      history.go(-1)
+      
 
 --> Url of page becomes http://www.example.com and console will output "Back to homepage" 
 
